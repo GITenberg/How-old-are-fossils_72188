@@ -1,0 +1,34 @@
+_repo: How-old-are-fossils_72188
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Roy, Sharat Kumar
+    aliases:
+    - Roy, Sharat Jumar
+    - Roy, Sharat K.
+    birthdate: 1897
+    deathdate: 1962
+    gutenberg_agent_id: '56583'
+    url: http://www.gutenberg.org/2009/agents/56583
+    wikipedia: https://en.wikipedia.org/wiki/Sharat_Kumar_Roy
+description: ''
+gutenberg_issued: '2023-11-21'
+identifiers:
+  gutenberg: '72188'
+language: en
+pgterms:marc905: 20230912174733roy
+pgterms:marc906: '1927'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aChicago, IL :$bField Museum of Natural History, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Paleontology'
+- !lcsh 'Fossils'
+- !lcc 'QE'
+- GITenberg
+title: How old are fossils?
+url: http://www.gutenberg.org/ebooks/72188
